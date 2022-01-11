@@ -5,6 +5,5 @@ the loops that goes on for each node we can conclude that which algorithm is BES
 
 To RUN this code... Just make sure that you have the necessary modules of python such as pretty table , matplotlib , numpy.
 
-And the Simulation for these two Routing protocols is also done with the NS2.
 
 
